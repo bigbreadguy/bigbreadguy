@@ -9,7 +9,7 @@
 </div>
 
 ## Experiences
-- Graduate Student in Hanyang University, Department of Civil & Environmental Engineering | 2020.03 ~ present
+- MS Student in Hanyang University, Department of Civil & Environmental Engineering | 2020.03 ~ present
 
 ## Awards & Certificates
 - 2021 HY-Seongdong Campustown Startup Contest awardee
