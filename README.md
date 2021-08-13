@@ -12,8 +12,8 @@
 - MS Student in Hanyang University, Department of Civil & Environmental Engineering | 2020.03 ~ present
 
 ## Awards & Certificates
-- 2021 **HY-Seongdong Campustown Startup Contest** awardee
-- Top prize at 2020 **K-Startup Entrepreneur Camp**(Hanyang University)
+- 2021 **HY-Seongdong Campustown Startup Contest** awardee | 2021.07.09
+- Top prize at 2020 **K-Startup Entrepreneur Camp**(Hanyang University) | 2020.12.26
 - **AWP University** Workface Planning Certificate | 2020.12.11
 - **AWP University** Intermediate Level Certificate | 2020.12.03
 - Mobility challenger award at 2018 **Hyundai NGV 미래모빌리티 경진대회**
