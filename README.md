@@ -1,9 +1,7 @@
 # Bigbreadguy
-
-### Hi there 👋
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi_there👋!&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
-
+  
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:schadenlim@gmail.com)
 
 </br>
