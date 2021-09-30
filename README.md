@@ -5,9 +5,13 @@
 <div align=center>
 
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:schadenlim@gmail.com)
+
 </br>
+
 [<img src="./assets/logo_brunch_crop.png">](https://brunch.co.kr/@come162003)
+
 </br>
+
 [![Alookso](https://alook.so/assets/union-black-4b2a377fcf3fb369d0e0ef9e9b976baba66dd70e9e4f32568b2e1d23c20b281a.svg)](https://alook.so/users/xgvtyo) 
 
 </div>
