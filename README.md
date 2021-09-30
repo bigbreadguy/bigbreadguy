@@ -13,11 +13,15 @@
 
 ## Awards & Certificates
 - 2021 **HY-Seongdong Campustown Startup Contest** awardee | 2021.07.09
+- **AWP University** L1 WFP Intermediate Certification with Advanced Practical Exercises | 2021.06.25
 - Top prize at 2020 **K-Startup Entrepreneur Camp**(Hanyang University) | 2020.12.26
 - **AWP University** Workface Planning Certificate | 2020.12.11
 - **AWP University** Intermediate Level Certificate | 2020.12.03
 - Mobility challenger award at 2018 **Hyundai NGV 미래모빌리티 경진대회**
 - Bronze award at 2018 **AI School - Korea University Innovation Center for Engineering Education**
+
+## Online Publications
+- **Soprize 선정 답변** - [한국에 '리액션' 하고 있는 이들은 누구인가요? - 우리는 어떤 영상에 열광하는가?](https://soprize.so/answer/491)
 
 <!--
 **bigbreadguy/bigbreadguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
