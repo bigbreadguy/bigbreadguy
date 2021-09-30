@@ -5,7 +5,7 @@
 <div align=center>
 
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:schadenlim@gmail.com)
-[<img class="brunch" src="https://t1.daumcdn.net/brunch9/static/images/pc/logo_brunch_v1.png">](https://brunch.co.kr/@come162003)
+[<img src="./assets/logo_brunch_crop.png">](https://brunch.co.kr/@come162003)
   
 </div>
 
