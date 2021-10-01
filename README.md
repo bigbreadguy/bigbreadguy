@@ -10,7 +10,7 @@
 
 </br>
 
-[![Alookso](https://alook.so/assets/union-black-4b2a377fcf3fb369d0e0ef9e9b976baba66dd70e9e4f32568b2e1d23c20b281a.svg)](https://alook.so/users/xgvtyo) 
+[//]: [![Alookso](https://alook.so/assets/union-black-4b2a377fcf3fb369d0e0ef9e9b976baba66dd70e9e4f32568b2e1d23c20b281a.svg)](https://alook.so/users/xgvtyo) 
 
 </div>
 
