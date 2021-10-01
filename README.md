@@ -15,7 +15,8 @@
 </div>
 
 ## Experiences
-- MS Student in Hanyang University, Department of Civil & Environmental Engineering | 2020.03 ~ present
+- MS Student in Hanyang University(Seoul), Department of Civil & Environmental Engineering | 2020.03 ~ present
+- BS in Hanyang University(Seoul), Civil Engineering(1st) & Entrepreneurship(2nd) | 2014.03 ~ 2020.02
 
 ## Awards & Certificates
 - 2021 **HY-Seongdong Campustown Startup Contest** awardee | 2021.07.09
