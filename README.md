@@ -28,7 +28,7 @@
 - Bronze award at 2018 **AI School - Korea University Innovation Center for Engineering Education**
 
 ## Online Publications
-- **Soprize 선정 답변** - [한국에 '리액션' 하고 있는 이들은 누구인가요? - 우리는 어떤 영상에 열광하는가?](https://soprize.so/answer/491)
+- **Soprize 선정 답변** - [한국에 '리액션' 하고 있는 이들은 누구인가요? - 우리는 어떤 영상에 열광하는가?](https://alook.so/posts/g3wtRX)
 
 <!--
 **bigbreadguy/bigbreadguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
