@@ -1,5 +1,5 @@
 # Bigbreadguy
-### [Seunggeon Lim - EN KOR.docx](https://github.com/simple-icons/simple-icons/files/7547225/Seunggeon.Lim.-.EN.KOR.docx)</br>
+### [CV](https://github.com/github/docs/files/7547310/Seunggeon.Lim.-.EN.KOR.pdf)</br>
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi_there👋!&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
   
