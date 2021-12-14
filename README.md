@@ -1,5 +1,5 @@
 # Bigbreadguy
-### [CV](https://github.com/github/docs/files/7547310/Seunggeon.Lim.-.EN.KOR.pdf)</br>
+### [CV](https://github.com/tensorflow/tensorflow/files/7708837/Seunggeon.Lim.-.EN.KOR.pdf)</br>
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi_there👋!&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
   
