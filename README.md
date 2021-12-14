@@ -20,8 +20,7 @@
 - BS in Hanyang University(Seoul), Civil Engineering(1st) & Entrepreneurship(2nd) | 2014.03 ~ 2020.02
 
 ## Awards & Certificates
-- Excellence award at 2021 **Worksite Safety Management - 
-Data-driven Service Contest for Artificial Intelligence Training** | 2021.12.13
+- Excellence award at 2021 **Worksite Safety Management - AI Training Data-driven Service Contest** | 2021.12.13
 - 2021 **HY-Seongdong Campustown Startup Contest** awardee | 2021.07.09
 - **AWP University** L1 WFP Intermediate Certification with Advanced Practical Exercises | 2021.06.25
 - Top prize at 2020 **K-Startup Entrepreneur Camp**(Hanyang University) | 2020.12.26
