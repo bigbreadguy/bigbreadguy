@@ -20,6 +20,7 @@
 - BS in Hanyang University(Seoul), Civil Engineering(1st) & Entrepreneurship(2nd) | 2014.03 ~ 2020.02
 
 ## Awards & Certificates
+- Top 10 finalist at **KPMG Ideathon 2022** | 2022.02.22
 - Excellence award at 2021 **Worksite Safety Management - AI Training Data-driven Service Contest** | 2021.12.13
 - 2021 **HY-Seongdong Campustown Startup Contest** awardee | 2021.07.09
 - **AWP University** L1 WFP Intermediate Certification with Advanced Practical Exercises | 2021.06.25
