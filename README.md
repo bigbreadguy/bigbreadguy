@@ -16,7 +16,7 @@
 </div>
 
 ## Experiences
-- MS Student in Hanyang University(Seoul), Department of Civil & Environmental Engineering | 2020.03 ~ present
+- MS in Hanyang University(Seoul), Department of Civil & Environmental Engineering | 2020.03 ~ 2023.02
 - BS in Hanyang University(Seoul), Civil Engineering(1st) & Entrepreneurship(2nd) | 2014.03 ~ 2020.02
 
 ## Awards & Certificates
@@ -31,6 +31,7 @@
 - Bronze award at 2018 **AI School - Korea University Innovation Center for Engineering Education**
 
 ## Online Publications
+- **Medium** - [How to automate Google Analytics Exploration using Data API (GA4, Python)](https://medium.com/@schadenlim/how-to-automate-google-analytics-explorations-using-data-api-ga4-python-fd6512dcbf7c)
 - **Soprize 선정 답변** - [한국에 '리액션' 하고 있는 이들은 누구인가요? - 우리는 어떤 영상에 열광하는가?](https://alook.so/posts/g3wtRX)
 
 <!--
