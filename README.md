@@ -7,7 +7,7 @@
 
 </br>
 
-[<img src="./assets/logo_brunch_crop.png">](https://brunch.co.kr/@come162003)
+[![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@schadenlim)
 
 </br>
 
