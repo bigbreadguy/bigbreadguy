@@ -1,5 +1,5 @@
 # Bigbreadguy
-### [Resume](https://github.com/github/docs/files/7749254/Seunggeon.Lim.-.EN.KOR.pdf)</br>
+### [Resume](https://github.com/user-attachments/files/24964117/Seunggeon.Lim.-.Data.Scientist.pdf)</br>
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi_there👋!&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
   
